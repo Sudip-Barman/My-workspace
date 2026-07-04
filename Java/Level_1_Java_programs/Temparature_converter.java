@@ -1,4 +1,4 @@
-public class Temparaure_converter{
+public class Temparature_converter{
 	public static void main(String[] args){
 		float cel = 25;
 

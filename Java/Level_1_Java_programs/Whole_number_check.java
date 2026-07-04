@@ -1,4 +1,4 @@
-public class Whole_number_chcek{
+public class Whole_number_check{
 	public static void main(String[] args){
 		int num = -5;
 
