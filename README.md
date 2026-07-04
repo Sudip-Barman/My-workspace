@@ -2,4 +2,4 @@
 
 | Project | Description |
 |---------|-------------|
-| [📘 NumPy Formula](Python/Numpy-formula/) | Complete NumPy cheat sheet |
+| [📘 NumPy Formula](Numpy-formula/) | Complete NumPy cheat sheet |
